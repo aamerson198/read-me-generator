@@ -67,6 +67,7 @@ The application is built with the intent to ${response.applicationPurpose}.
 This is an application built by ${response.name}.
 
 
+## Table of Contents 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
@@ -88,7 +89,7 @@ If you have any additional questions about this application, feel free to contac
 
 If you would like to browse the GitHub page of this applications builder visit their Github profile here: https://github.com/${response.github}. `
 
-fs.writeFile("README.md", readMeTemplate, "utf-8", (err) => {
+fs.writeFile("READMEGen.md", readMeTemplate, "utf-8", (err) => {
     if (err)throw err;
     console.log("Successfully wrote README file!");
 });
