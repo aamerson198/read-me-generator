@@ -18,7 +18,7 @@ This is an application built by Drew Amerson.
 
 ## License
 
-This project has a MIT License license.
+This project has an MIT License license.
 
 ## Usage
 
