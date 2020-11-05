@@ -2,7 +2,7 @@
 
 ## Description
 
-The application is built with the intent to This project makes use of node.js as well as the inquirer module to prompt a user to enter the appropriate information needed to generate an organized README document for a project. .
+The application is built to make use of node.js as well as the inquirer module to prompt a user to enter the appropriate information needed to generate an organized README document for a project. .
 
 ## Author
 
@@ -22,7 +22,7 @@ This project has a MIT License license.
 
 ## Usage
 
-In order to use this app you must You would need to install the inquierer module onto your machine as well as Node.js. You would then fork the repository containing the Read Me Generator. From there you would navigate to the folder containing the index.js file. You would then run the index.js file from your command line. After that, you would follow the prompts and after you complete all questions a new README file would be written into the same folder you were in. The new file would be called READMEGen.md. .
+In order to use this app you would need to install the inquirer module onto your machine as well as Node.js. You would then fork the repository containing the Read Me Generator. From there you would navigate to the folder containing the index.js file. You would then run the index.js file from your command line. After that, you would follow the prompts and after you complete all questions a new README file would be written into the same folder you were in. The new file would be called READMEGen.md. .
 
 ## Credit
 
